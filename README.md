@@ -5,7 +5,8 @@ Este es un sistema integral de gestión para farmacias, diseñado para simplific
 ---
 ## 🧑‍💻 Desarrollado por Andersson Jaren Flores Ruiz  
 **Universidad:** Universidad Tecnológica del Perú  
-**Curso:** Marco de Desarrollo Web  
+**Curso:** Marco de Desarrollo Web
+**Año:** 2024
 
 ---
 ## ✨ Características Principales
@@ -132,10 +133,3 @@ raíz-del-proyecto/
 │   ├── public/             # Archivos estáticos
 │   └── package.json        # Configuración de dependencias
 ```
-
-**Año:** 2024
-
----
-
-📬 Para cualquier duda o contribución, no dudes en crear un issue o un pull request.  
-¡Gracias por visitar este repositorio!
